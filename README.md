@@ -14,7 +14,7 @@ Future Ready Talent - Internship Project
 
    The project will be scalable and will allow for the expansion of the network of local farms and farmers as demand for organic produce grows. Overall, the web development project seeks to improve the health and wellbeing of consumers by providing them with access to fresh and healthy organic produce directly from local farms.
    
-   Tech Used: Bootstrap v5.0 ,  HTML CSS , JavaScript
+   Tech Used :   Bootstrap v5.0 ,  HTML CSS , JavaScript
 
 ### Screenshots of Live responsive web application:
 # Home Page
