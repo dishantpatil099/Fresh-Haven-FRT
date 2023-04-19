@@ -13,6 +13,7 @@ Future Ready Talent - Internship Project
    The website will also feature a blog section that will educate consumers on the benefits of organic farming and the dangers of consuming non-organic and stale produce. This will create awareness and educate consumers on the importance of consuming fresh and healthy food.
 
    The project will be scalable and will allow for the expansion of the network of local farms and farmers as demand for organic produce grows. Overall, the web development project seeks to improve the health and wellbeing of consumers by providing them with access to fresh and healthy organic produce directly from local farms.
+   
    Tech Used: Bootstrap v5.0 ,  HTML CSS , JavaScript
 
 ### Screenshots of Live responsive web application:
