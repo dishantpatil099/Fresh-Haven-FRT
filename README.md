@@ -3,8 +3,8 @@ Future Ready Talent - Internship Project
 
 ## Website Deployed Link: https://orange-meadow-04789ad00.3.azurestaticapps.net/
 
-Project Description: 
-    The project aims to address the growing concern over the hazardous side effects of non-organic and stale vegetables and fruits on human health. The project seeks to connect consumers who are health-conscious and want to have access to fresh organic produce with local farms and farmers.
+# Project Description: 
+   The project aims to address the growing concern over the hazardous side effects of non-organic and stale vegetables and fruits on human health. The project seeks to connect consumers who are health-conscious and want to have access to fresh organic produce with local farms and farmers.
 
    The website will serve as a platform where consumers can browse and order fresh vegetables and fruits directly from local farms. It will feature a user-friendly interface that allows customers to easily navigate through the available products and make orders.
 
@@ -14,7 +14,7 @@ Project Description:
 
    The project will be scalable and will allow for the expansion of the network of local farms and farmers as demand for organic produce grows. Overall, the web development project seeks to improve the health and wellbeing of consumers by providing them with access to fresh and healthy organic produce directly from local farms.
 
-Screenshots of Live responsive web application:
+### Screenshots of Live responsive web application:
 # Home Page
 
 <img width="1456" alt="Screenshot 2023-04-19 at 15 27 28" src="https://user-images.githubusercontent.com/84818493/233039799-309547a4-c6d8-41cc-a7f9-04d2f6c1e018.png">
